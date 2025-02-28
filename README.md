@@ -1,8 +1,9 @@
 # React + Vite
 How to run :
-clone and start with :
+clone build and start with :
 ```
-$npm run dev
+$npm run build
+$npm run preview
 ```
 # React + Vite
 
